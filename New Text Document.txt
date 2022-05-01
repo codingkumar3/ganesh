@@ -2,4 +2,4 @@ My to-do list
 
 1. Learn typing
 2. Learn python
-3. learn DSA, DBMS, OS, CN, 
+3. learn DSA, DBMS, OS, CN, etc
